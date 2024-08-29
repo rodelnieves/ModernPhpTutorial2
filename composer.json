@@ -1,0 +1,12 @@
+{
+    "name": "rodel/modern-php-tutorial2",
+    "description": "Learning PHP programming language",
+    "type": "project",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Framework\\": "src/Framework",
+            "App\\": "src/App"
+        }
+    }
+}
